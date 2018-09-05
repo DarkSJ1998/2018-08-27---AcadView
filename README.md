@@ -1,3 +1,2 @@
 # 2018-08-27---AcadView
-
-Assignment 6
+Keywords in JAVA - Assignment Solutions.

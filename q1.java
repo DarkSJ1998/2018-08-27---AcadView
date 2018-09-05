@@ -1,3 +1,7 @@
+/*
+Q1. Invoke instance methods of immediate parent class without creating an object.
+*/
+
 class Base
 {
 	public void displayBase()

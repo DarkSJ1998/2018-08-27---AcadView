@@ -1,3 +1,7 @@
+/*
+Q3. Write a class which can not be extended further.
+*/
+
 final class finalClass
 {
 	// some code

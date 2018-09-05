@@ -1,3 +1,7 @@
+/*
+Q2. Call default constructor of the same class through parameterized one.
+*/
+
 class Demo
 {
 	Demo()
